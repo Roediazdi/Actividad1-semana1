@@ -1,3 +1,7 @@
-1 Buscar la información
-2 Revisr la fuente 
-confimar la  noticis 
+1. Palabras claves para realizar la búsqueda
+2. Identificar la emoción
+3. Analizar la fuente y autor (sitios gubernamentales, educativos u organizativos
+conocidos)
+4. Apoyo de imágenes
+5. Datos estadísticos verificados
+6. Validar fecha de actualización 
